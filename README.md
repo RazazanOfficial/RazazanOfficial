@@ -9,7 +9,9 @@
 🔴 About Me:
 
 ---- 🌟 I'm Meraj Razazan, a passionate 20-year-old frontend developer with two years of serious programming experience.
+
 ---- My journey in programming began with a love for coding, and it has quickly become an integral part of my life.
+
 ---- I specialize in frontend development, particularly with JavaScript frameworks like Next.js and React.
 
  ||
