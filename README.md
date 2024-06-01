@@ -8,7 +8,7 @@ I specialize in frontend development, particularly with JavaScript frameworks li
 
 ==> Skills & Expertise:
 🖥️ Frontend Development: Next.js, React.js
-🖥️ Languages: JavaScript, HTML, CSS
+Languages: JavaScript, HTML, CSS
 
 ==> Connect with Me:
 🌐 My Website: meraj-razazan.ir
@@ -18,8 +18,7 @@ I specialize in frontend development, particularly with JavaScript frameworks li
 🚀 I aspire to be a great programmer, helping those who need assistance or have questions.
 🌱 My passion for programming drives me to constantly improve and contribute to the community.
 
-==> Fun Facts:
-💻 I love coding, and it's a significant part of my life.
+==> Fun Facts: 
 🎮 In my free time, I enjoy coding, playing video games, listening to music, and going for walks.
 
 ==> Extra:
