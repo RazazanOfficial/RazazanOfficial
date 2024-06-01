@@ -1,10 +1,10 @@
 🔴 Hi there, I'm Meraj Razazan! 👋
 
-||
+ ||
 
 🔴 Frontend Developer | JavaScript Enthusiast
 
-||
+ ||
 
 🔴 About Me:
 
@@ -12,7 +12,7 @@
 ---- My journey in programming began with a love for coding, and it has quickly become an integral part of my life.
 ---- I specialize in frontend development, particularly with JavaScript frameworks like Next.js and React.
 
-||
+ ||
 
 🔴 Skills & Expertise:
 
@@ -20,7 +20,7 @@
 
 ---- 🖥️ Languages: JavaScript, HTML, CSS
 
-||
+ ||
 
 🔴 Connect with Me:
 
@@ -28,7 +28,7 @@
 
 ---- 💼 LinkedIn: www.linkedin.com/in/meraj-razazan
 
-||
+ ||
 
 🔴 Goals & Aspirations:
 
@@ -36,7 +36,7 @@
 
 ---- 🌱 My passion for programming drives me to constantly improve and contribute to the community.
 
-||
+ ||
 
 🔴 Fun Facts:
 
@@ -44,7 +44,7 @@
 
 ---- 🎮 In my free time, I enjoy coding, playing video games, listening to music, and going for walks.
 
-||
+ ||
 
 🔴 Extra:
 
