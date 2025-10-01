@@ -25,13 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RazazanOfficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RazazanOfficial.RazazanOfficial&"  />
-</div>
 
 ###
 
@@ -136,5 +129,13 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/RazazanOfficial/RazazanOfficial/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RazazanOfficial.RazazanOfficial&"  />
+</div>
 
 ###
