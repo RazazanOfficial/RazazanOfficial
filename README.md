@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="120" src="https://avatars.githubusercontent.com/u/171061193?v=4"  />
+  <img height="120" src="https://s31.uupload.ir/files/razazanofficial/Modern%20Logo%20Design%20with%20Metallic%20Accent.png"  />
 </div>
 
 ###
